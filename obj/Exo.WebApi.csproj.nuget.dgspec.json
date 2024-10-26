@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Projetos\\CRUDfinal\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Projetos\\CRUDfinal\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Projetos\\CRUDfinal\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Projetos\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Projetos\\CRUDfinal\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Kasnot\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Projetos\\CRUDfinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kasnot\\AppData\\Roaming\\NuGet\\NuGet.Config",
