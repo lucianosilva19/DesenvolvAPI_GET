@@ -30,6 +30,8 @@ namespace  Exo.WebApi.Contexts
 // Server=localhost\\SQLEXPRESS;Database=ExoApi;Trusted_Connection=True;
             }
         }
-        public DbSet<Projeto> Projetos { get; set; }   
+        public DbSet<Projeto> Projetos { get; set; } 
+
+        public DbSet<Usuario> Usuarios { get; set; } 
     }
 }
