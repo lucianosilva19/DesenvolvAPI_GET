@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7pQsxJAql8=",
+  "dgSpecHash": "KseBrXXCrdQ=",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CRUDusuarios\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Projetos\\CRUDfinal\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kasnot\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Kasnot\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
